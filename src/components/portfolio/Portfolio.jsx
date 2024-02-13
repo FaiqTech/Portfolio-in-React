@@ -11,9 +11,7 @@ function Portfolio() {
         <PersonInfo />
         <ContactButton />
         <div className="icon-container">
-          <Icon iconName="icon1" />
-          <Icon iconName="icon2" />
-          <Icon iconName="icon3" />
+          <Icon />
         </div>
       </div>
       <div className="portfolio-right">
